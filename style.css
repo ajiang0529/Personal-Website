@@ -150,14 +150,14 @@ button:hover{
 .projectscontent{
     width: 100%;
     position: absolute;
-    top: 200%;
+    top: 225%;
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
 }
 .projectscontent h1{
     font-size: 70px;
-    margin-top: 600px;
+    margin-top: 500px;
 }
 .projectscontent h3{
     font-size: 20px;
